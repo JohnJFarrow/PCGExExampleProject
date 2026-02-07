@@ -1,17 +1,16 @@
-![5.5.2](https://img.shields.io/badge/5.5.2-darkgreen)
+![5.7](https://img.shields.io/badge/5.7-darkgreen)
 # PCGEx Example Project
 
-![PCGEx](https://raw.githubusercontent.com/Nebukam/PCGExtendedToolkit/main/Resources/Icon128.png)
+![PCGEx](https://raw.githubusercontent.com/Nebukam/PCGExtendedToolkit/refs/heads/docs/_sources/smol-logo.png)
 
 # What is it?
-This is a lightweight Unreal 5.5.2 Project showcasing various capabilities of [PCGExtendedToolkit](https://github.com/Nebukam/PCGExtendedToolkit).  
+This is a lightweight Unreal 5.6 Project showcasing various capabilities of [PCGExtendedToolkit](https://github.com/Nebukam/PCGExtendedToolkit).  
 
 ⚠ **IMPORTANT** ⚠ : You need to have the [FAB plugin](https://www.fab.com/listings/3f0bea1c-7406-4441-951b-8b2ca155f624) installed, or install the plugin from the source repo & compile it from source.
 
 > This project is always being updated, come back regularily!
 
-![image](https://github.com/user-attachments/assets/8228cb69-8354-4f8e-9d60-fa4aaaf2023d)
-
+![image](https://github.com/user-attachments/assets/cab9e1ac-de8d-490b-a9ad-8891e9758225)
 
 
 ## Content Structure
@@ -23,21 +22,35 @@ This is a lightweight Unreal 5.5.2 Project showcasing various capabilities of [P
 
 ### Some examples
 
-[Dynamic contouring on YT](https://www.youtube.com/watch?v=bpT4G8JR3jU)
+#### Contouring
+![image](https://github.com/user-attachments/assets/c0489916-ff62-4e57-b6ba-74a9b1db634d)
 
-#### Interconnected rooms
-![image](https://github.com/user-attachments/assets/8e3a82e8-801d-4897-8512-4bbc1589fa6e)
+#### Grid distribution/partitioning into tighly packed rooms
+![image](https://github.com/user-attachments/assets/4188e6a8-04c0-4ce2-9ffc-0568a16c3010)
 
-#### Plot pipe pathfinding
-![image](https://github.com/user-attachments/assets/27118da4-f05c-46e4-9ab0-7c52f431f1f8)
+#### Stamping & merging clusters
+![image](https://github.com/user-attachments/assets/cec3134d-eea4-4a75-a43a-bcbb0ecf6ad7)
 
-#### Blob perimeter
-![image](https://github.com/user-attachments/assets/6768e62a-f845-4e30-b903-18a3b6e0f10a)  
+#### Connected Rooms
+![image](https://github.com/user-attachments/assets/9f6ab72f-15ac-45f7-9977-cdc8f03ca705)
 
-#### Mini City layout
-![image](https://github.com/user-attachments/assets/fac10c78-8e1d-47b4-a5be-61af73bf9b94)
+#### Parceling
+![image](https://github.com/user-attachments/assets/9b6651d9-02e8-4be4-b964-c9bdd467b100)
 
-#### Mini Dungeon
-![image](https://github.com/user-attachments/assets/3e667fbd-c441-4693-abc2-14a7f9c1ac8a)
+#### City-like layouts
+![image](https://github.com/user-attachments/assets/2fec91c7-1162-4d00-84a6-535f55ea54f9)
+
+#### Merging regions
+![image](https://github.com/user-attachments/assets/3afee632-c5ac-4680-8205-abaa6238bb66)
+
+#### Urban growth & path flood-filling
+![image](https://github.com/user-attachments/assets/7b841648-5c8c-440c-8e69-bc11bd22eae1)
+
+
+
+
+
+
+
 
 
